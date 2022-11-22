@@ -19,8 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Mice.IdentityServices\Mice.IdentityServices.csproj" />
-    <ProjectReference Include="..\Mice.IdentityContext\Mice.IdentityContext.csproj" />
+    <ProjectReference Include="..\Mice.IdentityServices\Mice.IdentityServices.csproj" />
   </ItemGroup>
 
 </Project>
